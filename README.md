@@ -12,7 +12,6 @@ The packet capture demonstrates an attacker taking over an active TCP connection
 
 - Examine the packet capture using Wireshark.
 - Identify the point where the source MAC address changes.
-- Investigate the TCP anomalies observed during the Telnet session.
 - Identify suspicious network behavior.
 
   
