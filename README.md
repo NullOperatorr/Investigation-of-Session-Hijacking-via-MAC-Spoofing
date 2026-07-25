@@ -29,11 +29,6 @@ The packet capture demonstrates an attacker taking over an active TCP connection
 
 
 
-## Findings
-
-A detailed packet-by-packet analysis is available in:
-findings.md
-
 ## Learning Objectives
 
 - Evaluate evidence of TCP session hijacking.
