@@ -34,6 +34,4 @@ findings.md
 - Identify packet injection
 - Detect Layer 2 spoofing
 
-## Disclaimer
 
-This repository is intended for educational and defensive cybersecurity.
