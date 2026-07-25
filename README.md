@@ -8,6 +8,12 @@ This repository documents the analysis of a TCP session hijacking attack against
 
 The packet capture demonstrates an attacker taking over an active TCP connection by injecting packets after a change in the source MAC address.
 
+
+<img width="1129" height="386" alt="image" src="https://github.com/user-attachments/assets/3661dcea-8563-4b39-a9bf-ad1326e41566" />  
+
+
+
+
 ## Objectives
 
 - Examine the packet capture using Wireshark.
