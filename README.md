@@ -36,4 +36,4 @@ findings.md
 
 ## Disclaimer
 
-This repository is intended solely for educational and defensive cybersecurity research.
+This repository is intended for educational and defensive cybersecurity.
